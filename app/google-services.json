@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707798392652",
+    "firebase_url": "https://biometric-dbaa3.firebaseio.com",
+    "project_id": "biometric-dbaa3",
+    "storage_bucket": "biometric-dbaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707798392652:android:d6fdd13af825b24d0df9e9",
+        "android_client_info": {
+          "package_name": "com.example.biometric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707798392652-1vschnf88nmt49dsju4e3lhk7vun0kbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvTv967j93CVo2dEGOKDa95vBNKOy0IYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707798392652-1vschnf88nmt49dsju4e3lhk7vun0kbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
